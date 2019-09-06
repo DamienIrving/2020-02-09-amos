@@ -56,6 +56,7 @@ displayed if the 'eventbrite' field in the header is not set.
 </iframe>
 {% endif %}
 
+<h4><a href="http://amos-2020.w.amos.currinda.com/registration">Register at the AMOS 2020 conference website</a></h4>
 
 <h2 id="general">General Information</h2>
 
